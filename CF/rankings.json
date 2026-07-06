@@ -658,5 +658,38 @@
       "apple": 49,
       "android": 17
     }
+  },
+  "20260706": {
+    "TW": {
+      "apple": 71,
+      "android": 24
+    },
+    "US": {},
+    "JP": {
+      "apple": 40,
+      "android": 17
+    },
+    "UK": {
+      "apple": 43,
+      "android": 15
+    }
+  },
+  "20260705": {
+    "TW": {
+      "apple": 71,
+      "android": 24
+    },
+    "US": {
+      "apple": 46,
+      "android": 8
+    },
+    "JP": {
+      "apple": 40,
+      "android": 17
+    },
+    "UK": {
+      "apple": 43,
+      "android": 14
+    }
   }
 }
