@@ -463,5 +463,72 @@
       "apple": 80,
       "android": 43
     }
+  },
+  "20260701": {
+    "TW": {},
+    "US": {
+      "apple": 93,
+      "android": 39
+    },
+    "JP": {
+      "apple": 30,
+      "android": 5
+    },
+    "UK": {
+      "apple": 68,
+      "android": 44
+    }
+  },
+  "20260702": {
+    "TW": {
+      "apple": 24,
+      "android": 20
+    },
+    "US": {
+      "apple": 98,
+      "android": 36
+    },
+    "JP": {
+      "apple": 18,
+      "android": 4
+    },
+    "UK": {
+      "apple": 59,
+      "android": 40
+    }
+  },
+  "20260703": {
+    "TW": {
+      "apple": 29
+    },
+    "US": {
+      "android": 39
+    },
+    "JP": {
+      "apple": 19,
+      "android": 4
+    },
+    "UK": {
+      "apple": 76,
+      "android": 39
+    }
+  },
+  "20260704": {
+    "TW": {
+      "apple": 31,
+      "android": 18
+    },
+    "US": {
+      "apple": 88,
+      "android": 43
+    },
+    "JP": {
+      "apple": 23,
+      "android": 4
+    },
+    "UK": {
+      "apple": 79,
+      "android": 41
+    }
   }
 }
